@@ -1,0 +1,6 @@
+C:\Users\mroko\source\repos\Strefanoid\Strefanoid\x64\Debug\Strefanoid.vcxproj.AssemblyReference.cache
+C:\Users\mroko\source\repos\Strefanoid\Strefanoid\x64\Debug\Strefanoid.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\mroko\source\repos\Strefanoid\Strefanoid\x64\Debug\Strefanoid.Powitanie.resources
+C:\Users\mroko\source\repos\Strefanoid\Strefanoid\x64\Debug\Strefanoid.vcxproj.GenerateResource.cache
+C:\Users\mroko\source\repos\Strefanoid\Strefanoid\x64\Debug\Strefanoid.Autor.resources
+C:\Users\mroko\source\repos\Strefanoid\Strefanoid\x64\Debug\Strefanoid.Gra.resources
